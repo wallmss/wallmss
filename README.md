@@ -143,7 +143,7 @@ Features:
 
 Repository:
 
-🔗 Add your repository link here
+🔗 [AirInsight](https://github.com/wallmss/AirInsight)
 
 
 ---
@@ -173,7 +173,7 @@ Features:
 
 Repository:
 
-🔗 Add your repository link here
+🔗 [AnkiPy](https://github.com/wallmss/Ankipy)
 
 
 ---
@@ -204,7 +204,7 @@ Results:
 
 Repository:
 
-🔗 Add your repository link here
+🔗 [Detecção de SPAM com Machine Learning](https://github.com/wallmss/deteccao-spam-ml)
 
 
 ---
@@ -281,13 +281,11 @@ Currently in the 8th semester.
 
 LinkedIn:
 
-🔗 https://www.linkedin.com/in/wallmss/
-
+🔗 [Linkedin](https://www.linkedin.com/in/wallmss/) 
 
 Email:
 
-✉️ wmsenna1@gmail.com
-
+✉️ wmsenna1@gmail.com 
 
 ---
 
