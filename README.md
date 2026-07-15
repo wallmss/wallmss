@@ -81,11 +81,17 @@ I build enterprise automation solutions using **Python**, **SAP**, **Playwright*
 - Playwright automation
 - Process optimization
 
-⭐ **Highlighted Project**
+### ⭐ Highlight Project
 
-Developed a complete enterprise automation for Vale's weekly commitment process, integrating **SAP**, **Excel**, **SharePoint** and **Playwright**.
+Designed and developed an end-to-end automation system for Vale's weekly commitment process.
 
-The project was recognized internally and presented during a **Vale Kaizen** event.
+**Results**
+
+⚡ Reduced execution time by **over 90%** (from **5+ hours to just 28 minutes**).
+
+🏆 Recognized internally and presented at a **Vale Kaizen event**.
+
+🤖 Integrated **SAP ECC**, **SAPUI5**, **Excel**, **SharePoint** and **Python** into a fully automated workflow.
 
 ---
 
