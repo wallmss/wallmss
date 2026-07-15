@@ -14,7 +14,7 @@
 
 I am a Computer Engineering student at **FAESA** and currently work as an **RPA Automation Intern at Vale**.
 
-I build automation solutions focused on improving business processes, reducing repetitive tasks and integrating enterprise systems using Python, SAP, Excel and Artificial Intelligence**.
+**I build automation solutions focused on improving business processes, reducing repetitive tasks and integrating enterprise systems using Python, SAP, Excel and Artificial Intelligence.**
 
 My main interests are:
 
