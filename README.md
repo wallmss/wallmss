@@ -1,4 +1,5 @@
-<img width="1746" height="901" alt="Banner Linkedin" src="https://github.com/user-attachments/assets/af2546e7-fb86-4355-9b1e-0bba49b390b3" />
+<img width="1983" height="793" alt="Githubbanner" src="https://github.com/user-attachments/assets/db2b7057-7aad-405b-b487-604a827586d2" />
+
 
 # 👋 Hello, I'm Wallace Senna
 
