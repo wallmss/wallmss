@@ -1,297 +1,156 @@
-<img width="1983" height="793" alt="Githubbanner" src="https://github.com/user-attachments/assets/db2b7057-7aad-405b-b487-604a827586d2" />
+<img width="1983" alt="GitHub Banner" src="https://github.com/user-attachments/assets/db2b7057-7aad-405b-b487-604a827586d2"/>
 
+<h1 align="center">Hi 👋 I'm Wallace Senna</h1>
 
-# 👋 Hello, I'm Wallace Senna
+<h3 align="center">
+Computer Engineering Student • RPA Automation Engineer • Python Developer
+</h3>
 
-<div align="center">
+<p align="center">
 
-### Computer Engineering Student | RPA Automation Engineer | Python Developer
+<a href="https://www.linkedin.com/in/wallmss">
+<img src="https://img.shields.io/badge/LinkedIn-Wallace%20Senna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</div>
-
-
-## 🚀 About Me
-
-I am a Computer Engineering student at **FAESA** and currently work as an **RPA Automation Intern at Vale**.
-
-**I build automation solutions focused on improving business processes, reducing repetitive tasks and integrating enterprise systems using Python, SAP, Excel and Artificial Intelligence.**
-
-My main interests are:
-
-- 🤖 Robotic Process Automation (RPA)
-- 🐍 Python Development
-- 🧠 Artificial Intelligence applied to software
-- 📊 Data Processing and Automation
-- 🌐 Full Stack Development
-
-
-Currently working with:
-
-- Python automation
-- SAP GUI automation
-- Excel automation
-- SharePoint integration
-- Process optimization
-
-
----
-
-# 💼 Professional Experience
-
-
-## 🏭 Vale — RPA Automation Intern
-
-📅 Jan/2026 - Present
-
-Development of corporate automation solutions using Python.
-
-Main technologies:
-
-- Python
-- Playwright
-- Pandas
-- OpenPyXL
-- Win32com
-- SAP GUI
-- SAPUI5
-- Excel
-- SharePoint
-
-
-### ⭐ Highlight Project
-
-**Automation of the Weekly Commitment Process**
-
-A complete RPA solution developed in Python to automate the weekly commitment process at Vale.
-
-The system integrates:
-
-- SAP ECC
-- SAPUI5 Cockpit
-- Microsoft Excel
-- SharePoint
-
-
-Features:
-
-✅ Automatic SAP login  
-✅ IW39 extraction  
-✅ ME5A batch processing  
-✅ ME2N generation  
-✅ Excel master consolidation  
-✅ Dynamic tables update  
-✅ Automatic formatting  
-✅ Confidentiality labeling  
-✅ Graphical interface  
-✅ Unattended execution  
-
-
-The project was recognized internally and presented in a **Kaizen event at Vale**.
-
-
----
-
-
-## 🏦 BANDES — Technology Intern
-
-📅 Jun/2024 - Nov/2025
-
-
-Activities:
-
-- Development of reports using Crystal Reports
-- SAP integration
-- Advanced Excel automation
-- JavaScript development
-- React applications
-- HTML email marketing
-- Data processing
-
-
----
-
-
-# 🚀 Featured Projects
-
-
-## ✈️ AirInsight — Real-Time Flight Monitoring System
-
-A web application that displays real-time flights on an interactive map with dashboards and an AI conversational assistant.
-
-
-Technologies:
-
-```
-Node.js
-React
-PostgreSQL
-Leaflet
-Gemini AI
-Groq AI
-OpenSky API
-Aviationstack API
-```
-
-
-Features:
-
-- 🌎 Interactive world flight map
-- 📊 Real-time dashboard
-- 🤖 AI assistant converting natural language into SQL queries
-- ✈️ Flight statistics
-- 🗄 PostgreSQL data storage
-
-
-Repository:
-
-🔗 [AirInsight](https://github.com/wallmss/AirInsight)
-
-
----
-
-
-## 🃏 AnkiPy
-
-Automatic English flashcard generator for Anki with audio support.
-
-
-Technologies:
-
-```
-Python
-Automation
-Text Processing
-Anki API
-```
-
-
-Features:
-
-- Automatic card generation
-- Audio integration
-- Windows executable version
-
-
-Repository:
-
-🔗 [AnkiPy](https://github.com/wallmss/Ankipy)
-
-
----
-
-
-## 🤖 Spam Detection using Machine Learning
-
-
-Machine learning project for binary text classification.
-
-
-Technologies:
-
-```
-Python
-Scikit-Learn
-TF-IDF
-Naive Bayes
-Logistic Regression
-```
-
-
-Results:
-
-- Accuracy: 97.76%
-- Precision: 100%
-
-
-Repository:
-
-🔗 [Detecção de SPAM com Machine Learning](https://github.com/wallmss/deteccao-spam-ml)
-
-
----
-
-
-# 🛠 Technologies & Tools
-
-
-### Programming Languages
-
-<p>
-
-Python • JavaScript • C++ • SQL • HTML • CSS
+<a href="mailto:wmsenna1@gmail.com">
+<img src="https://img.shields.io/badge/Email-wmsenna1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
+---
+
+# 👨‍💻 About Me
+
+🎓 Computer Engineering Student at **FAESA**
+
+🏭 **RPA Automation Intern @ Vale**
+
+🚀 Passionate about Automation, Artificial Intelligence and Software Engineering.
+
+I build enterprise automation solutions using **Python**, **SAP**, **Playwright**, **Excel**, **SharePoint** and **AI** to eliminate repetitive work and optimize business processes.
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,postgres"/>
+</p>
+
+### Frameworks & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,git,vscode"/>
+</p>
 
 ### Automation
 
-<p>
+<p align="center">
 
-Python Automation • RPA • Playwright • SAP GUI • Excel Automation
+<img src="https://img.shields.io/badge/RPA-Automation-0A66C2?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/badge/SAP_GUI-009FDA?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Playwright-45BA63?style=for-the-badge&logo=playwright&logoColor=white"/>
 
-### Data
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<p>
+<img src="https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge"/>
 
-Pandas • OpenPyXL • PostgreSQL • Data Analysis
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
 
-</p>
-
-
-### Frontend
-
-<p>
-
-React • Vite • Leaflet
+<img src="https://img.shields.io/badge/Excel_Automation-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 </p>
-
-
-### Tools
-
-<p>
-
-Git • GitHub • VS Code • SAP • SharePoint
-
-</p>
-
 
 ---
 
+# 💼 Experience
 
-# 🎓 Education
+## 🏭 Vale — RPA Automation Intern
 
+**Jan 2026 — Present**
 
-## FAESA
+- Enterprise automation using Python
+- SAP GUI & SAPUI5 automation
+- SharePoint integration
+- Excel automation
+- Playwright automation
+- Process optimization
 
-Bachelor's Degree in Computer Engineering
+⭐ **Highlighted Project**
 
-📅 2023 - 2027
+Developed a complete enterprise automation for Vale's weekly commitment process, integrating **SAP**, **Excel**, **SharePoint** and **Playwright**.
 
-Currently in the 8th semester.
-
-
----
-
-
-# 📫 Contact
-
-
-LinkedIn:
-
-🔗 [Linkedin](https://www.linkedin.com/in/wallmss/) 
-
-Email:
-
-✉️ wmsenna1@gmail.com 
+The project was recognized internally and presented during a **Vale Kaizen** event.
 
 ---
 
-<div align="center">
+# 🚀 Featured Projects
 
-⭐ Always learning, building and automating.
+### ✈️ AirInsight
 
-</div>
+Real-time flight monitoring platform with an AI-powered assistant.
+
+> React • Node.js • PostgreSQL • Gemini • Groq
+
+🔗 https://github.com/wallmss/AirInsight
+
+---
+
+### 🃏 AnkiPy
+
+Automatic flashcard generator for Anki with audio.
+
+> Python
+
+🔗 https://github.com/wallmss/Ankipy
+
+---
+
+### 🤖 Spam Detection using Machine Learning
+
+Binary SMS classifier using Scikit-Learn.
+
+> Python • Machine Learning
+
+🔗 https://github.com/wallmss/deteccao-spam-ml
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wallmss&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallmss&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=wallmss&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wallmss&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Building automation solutions that create real business value.
+
+</h3>
