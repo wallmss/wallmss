@@ -87,7 +87,7 @@ Designed and developed an end-to-end automation system for Vale's weekly commitm
 
 **Results**
 
-⚡ Reduced execution time by **95%**, from **6 hours of manual work to just 18 minutes with automation**, under normal conditions.
+⚡ Reduced execution time by **95%**, from **6 hours of manual work under normal conditions to just 18 minutes with automation**.
 
 🏆 Recognized internally and presented at a **Vale Kaizen event**.
 
