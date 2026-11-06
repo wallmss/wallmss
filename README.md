@@ -20,7 +20,7 @@ Computer Engineering Student • RPA Automation Engineer • Python Developer
 
 ---
 
-# 👨‍💻 About Me
+# 👨💻 About Me
 
 🎓 Computer Engineering Student at **FAESA**
 
@@ -87,7 +87,7 @@ Designed and developed an end-to-end automation system for Vale's weekly commitm
 
 **Results**
 
-⚡ Reduced execution time by **over 90%** (from **5+ hours to just 28 minutes**).
+⚡ Reduced execution time by **95%**, from **6 hours of manual work to just 18 minutes with automation**, under normal conditions.
 
 🏆 Recognized internally and presented at a **Vale Kaizen event**.
 
@@ -128,5 +128,3 @@ Binary SMS classifier using Scikit-Learn.
 ---
 
 ⭐ Building automation solutions that create real business value.
-
-</h3>
